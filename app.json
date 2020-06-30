@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Restaurant finder",
+    "githubUrl": "https://github.com/sammyl720/react-native-restaurant-finder"
   }
 }
