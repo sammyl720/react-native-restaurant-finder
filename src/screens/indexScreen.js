@@ -1,25 +1,64 @@
 import React, { useContext } from 'react'
-import { StyleSheet, Text, View, FlatList, Butto } from 'react-native'
-import BlogContext from '../context/BlogContext'
-import { Button } from 'react-native'
-export default function indexScreen() {
-  const { data, addBlogPost } = useContext(BlogContext)
+import { StyleSheet, Text, View, FlatList, Button, TouchableOpacity } from 'react-native'
+import { Feather } from '@expo/vector-icons';  
+import { Context } from '../context/BlogContext'
+
+export default function indexScreen({ navigation }) {
+  const { state, deleteBlogPost } = useContext( Context)
   return (
     <View>
-      <Text>Index Screen</Text>
-      <Button
-        title="Add Post"
-        onPress={addBlogPost}
-      />
       <FlatList
-        data={data}
+        data={state}
         keyExtractor={(blogPost) => blogPost.title}
         renderItem={({ item }) => {
-          return <Text>{item.title}</Text>
+          return (
+            <TouchableOpacity onPress={() => {
+              navigation.navigate('Show', { id: item.id })
+            }}>
+              <View style={styles.row}>
+                <Text style={styles.title}>{item.title} - {item.id}</Text>
+                <TouchableOpacity onPress={() => {
+                  deleteBlogPost(item.id)
+                }}>
+                  <Feather style={styles.icon} name="trash" size={24} color="black" />
+                </TouchableOpacity>
+              </View>
+            </TouchableOpacity>
+          )
         }}
       />
     </View>
   )
 }
 
-const styles = StyleSheet.create({})
+indexScreen.navigationOptions = ({ navigation }) => {
+  return {
+    headerRight: () => {
+      return (
+        <TouchableOpacity
+          style={{ marginRight: 10 }} 
+          onPress={() => {
+            navigation.navigate('Create')
+          }}>
+          <Feather name="plus" size={24} color="black" />
+        </TouchableOpacity>
+      )
+    }
+  }
+}
+const styles = StyleSheet.create({
+  row: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    paddingVertical: 20,
+    paddingHorizontal: 10,
+    borderTopWidth: 1,
+    borderColor: 'gray'
+  },
+  title: {
+    fontSize: 18
+  },
+  icon: {
+    fontSize: 24
+  }
+})
