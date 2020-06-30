@@ -1,0 +1,2276 @@
+{
+    "businesses": [
+        {
+            "id": "-kywtQtjS4s6x2LVYxmreQ",
+            "alias": "grill-point-brooklyn-brooklyn-3",
+            "name": "Grill Point - Brooklyn",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HhPSmkHH6AIM9FIqNn0S8A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/grill-point-brooklyn-brooklyn-3?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.60807,
+                "longitude": -73.96114
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1123 Quentin Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11229",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1123 Quentin Rd",
+                    "Brooklyn, NY 11229"
+                ]
+            },
+            "phone": "+17187669009",
+            "display_phone": "(718) 766-9009",
+            "distance": 4325.43685886627
+        },
+        {
+            "id": "37RhWHnMsnjULuoN95Bg9A",
+            "alias": "izzys-brooklyn-smokehouse-crown-heights",
+            "name": "Izzy's Brooklyn Smokehouse",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e5YYl_HrSg7w66M58c1PIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/izzys-brooklyn-smokehouse-crown-heights?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "smokehouse",
+                    "title": "Smokehouse"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.66487,
+                "longitude": -73.9369
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "397 Troy Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Crown Heights",
+                "zip_code": "11213",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "397 Troy Ave",
+                    "Crown Heights, NY 11213"
+                ]
+            },
+            "phone": "+13474250524",
+            "display_phone": "(347) 425-0524",
+            "distance": 2306.1752166016295
+        },
+        {
+            "id": "Kg1OqaEPNFFL5FuqnALdWQ",
+            "alias": "davids-brisket-house-and-deli-brooklyn",
+            "name": "David's Brisket House and Deli",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1zevDwN9w9PpQAAqUN1xyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/davids-brisket-house-and-deli-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 435,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "cheesesteaks",
+                    "title": "Cheesesteaks"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.679434,
+                "longitude": -73.949515
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "533 Nostrand Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11216",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "533 Nostrand Ave",
+                    "Brooklyn, NY 11216"
+                ]
+            },
+            "phone": "+17187891155",
+            "display_phone": "(718) 789-1155",
+            "distance": 3844.9593353244677
+        },
+        {
+            "id": "K2QvVZ1mXc1xZdA0NLlf9Q",
+            "alias": "mama-kitchen-brooklyn",
+            "name": "Mama Kitchen",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M30P6BIZIPcNwVCSz-aJDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mama-kitchen-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.6788993574647,
+                "longitude": -73.9272566922721
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "7 Rochester Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11233",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "7 Rochester Ave",
+                    "Brooklyn, NY 11233"
+                ]
+            },
+            "phone": "+17187713038",
+            "display_phone": "(718) 771-3038",
+            "distance": 4047.3849533171
+        },
+        {
+            "id": "lNV-bBLb9iTFCmbeGakwGw",
+            "alias": "gottliebs-restaurant-brooklyn-14",
+            "name": "Gottlieb's Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/csYVkF4iPsm5iitlQEYWgw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gottliebs-restaurant-brooklyn-14?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 67,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.7077128,
+                "longitude": -73.9611326
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "352 Roebling St",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11211",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "352 Roebling St",
+                    "Brooklyn, NY 11211"
+                ]
+            },
+            "phone": "+17183846612",
+            "display_phone": "(718) 384-6612",
+            "distance": 7103.173077797637
+        },
+        {
+            "id": "x3WjQRDbbyqaWZ4ABgUX5Q",
+            "alias": "essen-ny-deli-brooklyn",
+            "name": "Essen NY Deli",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Y4RvBYnutblqK__My4wmow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/essen-ny-deli-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 73,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.6244,
+                "longitude": -73.96474
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1359 Coney Island Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1359 Coney Island Ave",
+                    "Brooklyn, NY 11230"
+                ]
+            },
+            "phone": "+17188591002",
+            "display_phone": "(718) 859-1002",
+            "distance": 2843.2624947165923
+        },
+        {
+            "id": "aP_9qqZQKTE3lLUIbZt1UQ",
+            "alias": "main-house-bbq-brooklyn-2",
+            "name": "Main House BBQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/We-asuC7rS1QpUhp01B9Cg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/main-house-bbq-brooklyn-2?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 61,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.6118431091309,
+                "longitude": -73.9130706787109
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "6001 Strickland Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11234",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "6001 Strickland Ave",
+                    "Brooklyn, NY 11234"
+                ]
+            },
+            "phone": "+17186738773",
+            "display_phone": "(718) 673-8773",
+            "distance": 4559.47014721453
+        },
+        {
+            "id": "lwhyboL8ECPLmI1SN3FsNg",
+            "alias": "pomegranate-brooklyn",
+            "name": "Pomegranate",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jmCFj9_q7-JAMJcc516yJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pomegranate-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 99,
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.620502,
+                "longitude": -73.964
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "1507 Coney Island Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1507 Coney Island Ave",
+                    "Brooklyn, NY 11230"
+                ]
+            },
+            "phone": "+17189517112",
+            "display_phone": "(718) 951-7112",
+            "distance": 3157.225402781066
+        },
+        {
+            "id": "pSAAr8srYYt4SUQP4r0Bhw",
+            "alias": "luannes-wild-ginger-brooklyn",
+            "name": "Luanne's Wild Ginger",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_-6RMaS5mBHQ1_sS4hjPiw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/luannes-wild-ginger-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 71,
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.6896,
+                "longitude": -73.96982
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "235 Dekalb Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11205",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "235 Dekalb Ave",
+                    "Brooklyn, NY 11205"
+                ]
+            },
+            "phone": "+17186388868",
+            "display_phone": "(718) 638-8868",
+            "distance": 5387.828453405967
+        },
+        {
+            "id": "8PlsB1AXfAJ2RSR0MNbDrQ",
+            "alias": "the-loft-steakhouse-borough-park",
+            "name": "The Loft Steakhouse",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PVt3GOE1tmQ4Gtfl4qDwVg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-loft-steakhouse-borough-park?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 70,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.6399094,
+                "longitude": -73.9866452
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "1306 40th St",
+                "address2": "",
+                "address3": "",
+                "city": "Borough Park",
+                "zip_code": "11218",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1306 40th St",
+                    "Borough Park, NY 11218"
+                ]
+            },
+            "phone": "+17184755600",
+            "display_phone": "(718) 475-5600",
+            "distance": 3571.795283951294
+        },
+        {
+            "id": "oYAK5hfH0_Y0jyiaasgrjw",
+            "alias": "sushi-meshuga-brooklyn",
+            "name": "Sushi Meshuga",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jMPTjCsXu4EhjyUSpIsj4w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sushi-meshuga-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 65,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.6098799,
+                "longitude": -73.95639
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1637 E 17th St",
+                "address2": null,
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11229",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1637 E 17th St",
+                    "Brooklyn, NY 11229"
+                ]
+            },
+            "phone": "+17186769485",
+            "display_phone": "(718) 676-9485",
+            "distance": 4030.2017383946304
+        },
+        {
+            "id": "XLDfKlVPpFrUA5y6lmJTNQ",
+            "alias": "davids-restaurant-brooklyn-7",
+            "name": "David's Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SC8cXOXOLlTM_VIsI0ttrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/davids-restaurant-brooklyn-7?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 57,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.6047112,
+                "longitude": -73.9694855
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "539 Kings Hwy",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11223",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "539 Kings Hwy",
+                    "Brooklyn, NY 11223"
+                ]
+            },
+            "phone": "+17189988600",
+            "display_phone": "(718) 998-8600",
+            "distance": 4942.381150801893
+        },
+        {
+            "id": "m7kf0mV_fZ8FZN8kwhbfdA",
+            "alias": "mazza-and-more-brooklyn",
+            "name": "Mazza & More",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/47k0nJBxETMJtXrNqOJDtA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mazza-and-more-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.6166267,
+                "longitude": -73.9709791
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "410 Avenue M",
+                "address2": null,
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "410 Avenue M",
+                    "Brooklyn, NY 11230"
+                ]
+            },
+            "phone": "+17183548007",
+            "display_phone": "(718) 354-8007",
+            "distance": 3852.230207022435
+        },
+        {
+            "id": "Twwpqrl15EVhmaNnNSrSQw",
+            "alias": "t-fusion-steakhouse-brooklyn",
+            "name": "T Fusion Steakhouse",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/evYt_yR4z4hCrxeAtCzIuQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/t-fusion-steakhouse-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 84,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.61336,
+                "longitude": -73.93929
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "3223 Quentin Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11234",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "3223 Quentin Rd",
+                    "Brooklyn, NY 11234"
+                ]
+            },
+            "phone": "+17189980002",
+            "display_phone": "(718) 998-0002",
+            "distance": 3556.8848796152356
+        },
+        {
+            "id": "ib_UPRz83TsLOaNe1EEHBw",
+            "alias": "sunflower-cafe-brooklyn-brooklyn",
+            "name": "Sunflower Cafe - Brooklyn",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uFo-3qpV-Yz36085U5l9UQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sunflower-cafe-brooklyn-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 137,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.608253,
+                "longitude": -73.96022
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1223 Quentin Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11229",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1223 Quentin Rd",
+                    "Brooklyn, NY 11229"
+                ]
+            },
+            "phone": "+17183361340",
+            "display_phone": "(718) 336-1340",
+            "distance": 4292.537315528232
+        },
+        {
+            "id": "B6n8IyvNn7ZRCy4ybsScsA",
+            "alias": "holy-schnitzel-brooklyn",
+            "name": "Holy Schnitzel",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Jy7Z17fKqHnwz1oAG15r2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/holy-schnitzel-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 63,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.5984258900389,
+                "longitude": -73.9623450860381
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "819 Ave U",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11223",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "819 Ave U",
+                    "Brooklyn, NY 11223"
+                ]
+            },
+            "phone": "+17186274659",
+            "display_phone": "(718) 627-4659",
+            "distance": 5388.990476086892
+        },
+        {
+            "id": "12anHG0qFlw8Jkb99RX3Mg",
+            "alias": "mile-end-delicatessen-brooklyn-brooklyn",
+            "name": "Mile End Delicatessen Brooklyn",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o49JTy_zK6m5ZsCI1SegNQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mile-end-delicatessen-brooklyn-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 769,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.6875051,
+                "longitude": -73.9870685
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "97A Hoyt St",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11217",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "97A Hoyt St",
+                    "Brooklyn, NY 11217"
+                ]
+            },
+            "phone": "+17188527510",
+            "display_phone": "(718) 852-7510",
+            "distance": 5914.108980665892
+        },
+        {
+            "id": "lYxAvhsPE0waZoWy0B69QA",
+            "alias": "rosner-kosher-meat-brooklyn",
+            "name": "Rosner Kosher Meat",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/K_v6GBwmjBBriQVFA5V_Dg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rosner-kosher-meat-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "meats",
+                    "title": "Meat Shops"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.59828,
+                "longitude": -73.96343
+            },
+            "transactions": [],
+            "location": {
+                "address1": "719 Ave U",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11223",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "719 Ave U",
+                    "Brooklyn, NY 11223"
+                ]
+            },
+            "phone": "+17186458486",
+            "display_phone": "(718) 645-8486",
+            "distance": 5441.553129464965
+        },
+        {
+            "id": "-uuzJXVirnQlxHqeuqKY2Q",
+            "alias": "hunan-west-brooklyn",
+            "name": "Hunan West",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8BbVxJDV0G5Y0h5ZLi-Bag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hunan-west-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.6130082709946,
+                "longitude": -73.9123942232126
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "6165 Strickland Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11234",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "6165 Strickland Ave",
+                    "Brooklyn, NY 11234"
+                ]
+            },
+            "phone": "+17184441678",
+            "display_phone": "(718) 444-1678",
+            "distance": 4493.051085088729
+        },
+        {
+            "id": "xqGknDJ1iWZvHMS5WBOjQA",
+            "alias": "bordeaux-midwood",
+            "name": "Bordeaux",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1iM0Ltl3A0lQj3Bh2TygGw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bordeaux-midwood?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 62,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.61046,
+                "longitude": -73.96266
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "1922 Coney Island Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Midwood",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1922 Coney Island Ave",
+                    "Midwood, NY 11230"
+                ]
+            },
+            "phone": "+17189424040",
+            "display_phone": "(718) 942-4040",
+            "distance": 4131.006863903059
+        },
+        {
+            "id": "j0VzSeS8Fz41-PYiUzGZBg",
+            "alias": "dixie-bbq-brooklyn",
+            "name": "Dixie BBQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uE32wcDDoTozZvzVYe4XUg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dixie-bbq-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.62492,
+                "longitude": -73.96265
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "location": {
+                "address1": "1316 Avenue J",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1316 Avenue J",
+                    "Brooklyn, NY 11230"
+                ]
+            },
+            "phone": "+13475871068",
+            "display_phone": "(347) 587-1068",
+            "distance": 2695.843395453939
+        },
+        {
+            "id": "heWPsS_R2YVJhoJQUVQ7tw",
+            "alias": "mechys-gourmet-brooklyn-2",
+            "name": "Mechy's Gourmet",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PblnHItXWrdCvdkYMaO9Bw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mechys-gourmet-brooklyn-2?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.624889,
+                "longitude": -73.96181
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1412 Avenue J",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1412 Avenue J",
+                    "Brooklyn, NY 11230"
+                ]
+            },
+            "phone": "+17183389181",
+            "display_phone": "(718) 338-9181",
+            "distance": 2656.8406718615074
+        },
+        {
+            "id": "8tnYOCt_G42ZKv69KxBWAA",
+            "alias": "estihana-brooklyn-brooklyn",
+            "name": "Estihana Brooklyn",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qS0JfQ-MwiwW_uXJOLp98w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/estihana-brooklyn-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 31,
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.6250653,
+                "longitude": -73.9636074
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1217 Ave J",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1217 Ave J",
+                    "Brooklyn, NY 11230"
+                ]
+            },
+            "phone": "+17186771515",
+            "display_phone": "(718) 677-1515",
+            "distance": 2726.8146673346696
+        },
+        {
+            "id": "HygCKfQcUKuTD0gAyvfbTQ",
+            "alias": "knish-nosh-rego-park",
+            "name": "Knish Nosh",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RVAOBW8E4yloH8DfW5IVWg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/knish-nosh-rego-park?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 71,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7319,
+                "longitude": -73.86716
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "98-104 Queens Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Rego Park",
+                "zip_code": "11374",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "98-104 Queens Blvd",
+                    "Rego Park, NY 11374"
+                ]
+            },
+            "phone": "+17188975554",
+            "display_phone": "(718) 897-5554",
+            "distance": 11858.994654689366
+        },
+        {
+            "id": "yr97Mr7cDaaUigZXqHuIeg",
+            "alias": "sizzling-wok-brooklyn-4",
+            "name": "Sizzling Wok",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-fr5CzCIDXpKFZXAtQpcFQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sizzling-wok-brooklyn-4?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.5979627493165,
+                "longitude": -73.9611108207314
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2421 Coney Island Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11223",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "2421 Coney Island Ave",
+                    "Brooklyn, NY 11223"
+                ]
+            },
+            "phone": "+17187585350",
+            "display_phone": "(718) 758-5350",
+            "distance": 5411.1927877113685
+        },
+        {
+            "id": "Ms3CAGddVbgetiQrpzqxPQ",
+            "alias": "hometown-bar-b-que-brooklyn-3",
+            "name": "Hometown Bar-B-Que",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/er94hg-rUwbBp1a5hJAByA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hometown-bar-b-que-brooklyn-3?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 1357,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "smokehouse",
+                    "title": "Smokehouse"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.6748965703426,
+                "longitude": -74.0160489746129
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "454 Van Brunt St",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11231",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "454 Van Brunt St",
+                    "Brooklyn, NY 11231"
+                ]
+            },
+            "phone": "+13472944644",
+            "display_phone": "(347) 294-4644",
+            "distance": 6862.078101173835
+        },
+        {
+            "id": "AdZ13ZEVD7t2h8PaEIbTbQ",
+            "alias": "alenbi-brooklyn",
+            "name": "ALENbi",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/T5s_gSt8AcT0H8TbPQRlig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alenbi-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 56,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.666413,
+                "longitude": -73.9506115
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "887 Nostrand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11225",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "887 Nostrand Ave",
+                    "Brooklyn, NY 11225"
+                ]
+            },
+            "phone": "+13475293739",
+            "display_phone": "(347) 529-3739",
+            "distance": 2432.665611473172
+        },
+        {
+            "id": "e_pbcF-lIHXvBiQwsKnkrg",
+            "alias": "orchidea-brooklyn",
+            "name": "Orchidea",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5MoLEIK7J5UjgIGnrOksRA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/orchidea-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 47,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.6366155,
+                "longitude": -73.993802
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "4815 12th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11219",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "4815 12th Ave",
+                    "Brooklyn, NY 11219"
+                ]
+            },
+            "phone": "+17186867500",
+            "display_phone": "(718) 686-7500",
+            "distance": 4230.223745155162
+        },
+        {
+            "id": "GVAry95TZEJKyTDKc2xcxg",
+            "alias": "bodai-vegetarian-restaurant-brooklyn",
+            "name": "Bodai Vegetarian Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3C99WNybFj9BlZNRyuhJKw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bodai-vegetarian-restaurant-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.63803,
+                "longitude": -73.99954
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "5015 10th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11219",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "5015 10th Ave",
+                    "Brooklyn, NY 11219"
+                ]
+            },
+            "phone": "+19293243582",
+            "display_phone": "(929) 324-3582",
+            "distance": 4677.185129771559
+        },
+        {
+            "id": "MGd6HFEq1ALD58XWNviSXw",
+            "alias": "time-out-market-new-york-brooklyn",
+            "name": "Time Out Market New York",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TmhwMz3q6IdmVVC8ZgZc8Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/time-out-market-new-york-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 237,
+            "categories": [
+                {
+                    "alias": "food_court",
+                    "title": "Food Court"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.7037211399782,
+                "longitude": -73.9918105285751
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "55 Water St",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11201",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "55 Water St",
+                    "Brooklyn, NY 11201"
+                ]
+            },
+            "phone": "+19178104855",
+            "display_phone": "(917) 810-4855",
+            "distance": 7632.958518174295
+        },
+        {
+            "id": "nUk29UWKpe01xvHKJlWadw",
+            "alias": "sanders-bakery-brooklyn",
+            "name": "Sander's Bakery",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9KPeuFUXUppRT6Rz0whyPw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sanders-bakery-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.70323,
+                "longitude": -73.95699
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "159 Lee Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11211",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "159 Lee Ave",
+                    "Brooklyn, NY 11211"
+                ]
+            },
+            "phone": "+17183877411",
+            "display_phone": "(718) 387-7411",
+            "distance": 6555.712482943818
+        },
+        {
+            "id": "3K4WbVam-t0rmUsVayow7w",
+            "alias": "events-by-dovi-brooklyn",
+            "name": "Events By Dovi",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UX93C9WyQVR6saB1zbiFRg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/events-by-dovi-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.6315175197413,
+                "longitude": -73.9599601374344
+            },
+            "transactions": [],
+            "location": {
+                "address1": "788 E 18th St",
+                "address2": null,
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "788 E 18th St",
+                    "Brooklyn, NY 11230"
+                ]
+            },
+            "phone": "+17184210615",
+            "display_phone": "(718) 421-0615",
+            "distance": 1970.8626154858468
+        },
+        {
+            "id": "2R5smF5dZLgcNQGGomo8XA",
+            "alias": "senders-smoke-joint-teaneck",
+            "name": "Senders Smoke Joint",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xORY0yM-iErRJMfPw_1Mbg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/senders-smoke-joint-teaneck?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.9009,
+                "longitude": -74.0064
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "190 West Englewood Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Teaneck",
+                "zip_code": "07666",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "190 West Englewood Ave",
+                    "Teaneck, NJ 07666"
+                ]
+            },
+            "phone": "+12013572255",
+            "display_phone": "(201) 357-2255",
+            "distance": 28933.19125898583
+        },
+        {
+            "id": "eob2iJPiR7-r2w4he0Tuig",
+            "alias": "mill-basin-kosher-deli-brooklyn-3",
+            "name": "Mill Basin Kosher Deli",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M5_Gw76AZzgjGMpZB1gTKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mill-basin-kosher-deli-brooklyn-3?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 217,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.61567,
+                "longitude": -73.91812
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "5823 Ave T",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11234",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "5823 Ave T",
+                    "Brooklyn, NY 11234"
+                ]
+            },
+            "phone": "+17182414910",
+            "display_phone": "(718) 241-4910",
+            "distance": 3962.1096159268554
+        },
+        {
+            "id": "CDDV77_ur5JGwIMzzr4Tww",
+            "alias": "tov-umai-tiv-brooklyn",
+            "name": "Tov U'mai Tiv",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/48u_rbmG-N5fMSOGTjiYWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tov-umai-tiv-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 19,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.61927,
+                "longitude": -73.94562
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2668 Nostrand Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11210",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "2668 Nostrand Ave",
+                    "Brooklyn, NY 11210"
+                ]
+            },
+            "phone": "+17182587991",
+            "display_phone": "(718) 258-7991",
+            "distance": 2847.235325985585
+        },
+        {
+            "id": "Xy5zmV2va1RTgnqyakfMnQ",
+            "alias": "gruit-brooklyn",
+            "name": "Gruit",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WlHS8heaS6vf8QxxSHNmUA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gruit-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "beergardens",
+                    "title": "Beer Gardens"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.663465879123,
+                "longitude": -73.9536466271922
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "252 Empire Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11225",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "252 Empire Blvd",
+                    "Brooklyn, NY 11225"
+                ]
+            },
+            "phone": "+13478460622",
+            "display_phone": "(347) 846-0622",
+            "distance": 2179.326561406261
+        },
+        {
+            "id": "8w_h6GVZFCCh6NJxNY6Afw",
+            "alias": "glatt-a-la-carte-brooklyn-2",
+            "name": "Glatt A La Carte",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ahf-r9FY7s3X3hxOBOxXwQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/glatt-a-la-carte-brooklyn-2?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.62662,
+                "longitude": -73.98248
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "5123 18th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11204",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "5123 18th Ave",
+                    "Brooklyn, NY 11204"
+                ]
+            },
+            "phone": "+17184386675",
+            "display_phone": "(718) 438-6675",
+            "distance": 3776.533082654253
+        },
+        {
+            "id": "u2uujeuNdUA0WuF46xrsGg",
+            "alias": "meat-cafe-brooklyn-5",
+            "name": "Meat Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qmiiRjdvwfuBZyidFSHM2Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/meat-cafe-brooklyn-5?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.67577,
+                "longitude": -73.94146
+            },
+            "transactions": [],
+            "location": {
+                "address1": "123 Kingston Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11213",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "123 Kingston Ave",
+                    "Brooklyn, NY 11213"
+                ]
+            },
+            "phone": "+15168881730",
+            "display_phone": "(516) 888-1730",
+            "distance": 3425.9064783109798
+        },
+        {
+            "id": "dN17XjupSnAdIapJyXK_qg",
+            "alias": "brooklyn-artisan-bakehouse-and-cafe-brooklyn",
+            "name": "Brooklyn Artisan Bakehouse & Cafe",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SiHnWu4tSeSiHBBhQrJEwg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brooklyn-artisan-bakehouse-and-cafe-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 52,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.6621475219727,
+                "longitude": -73.9450302124023
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "529 E New York Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11225",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "529 E New York Ave",
+                    "Brooklyn, NY 11225"
+                ]
+            },
+            "phone": "+13472921382",
+            "display_phone": "(347) 292-1382",
+            "distance": 1899.4255320853786
+        },
+        {
+            "id": "BAqvNvWs-DeCPZYh6ntBTw",
+            "alias": "bison-and-bourbon-brooklyn",
+            "name": "Bison & Bourbon",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t0XuzKI2vAvhFxel-j2jgw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bison-and-bourbon-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 160,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.67308,
+                "longitude": -73.99061
+            },
+            "transactions": [
+                "delivery",
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "191 7th St",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11215",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "191 7th St",
+                    "Brooklyn, NY 11215"
+                ]
+            },
+            "phone": "+17184220801",
+            "display_phone": "(718) 422-0801",
+            "distance": 4964.9695095581765
+        },
+        {
+            "id": "qLLxS7RwNEjP_jq_KQrPfA",
+            "alias": "traif-brooklyn",
+            "name": "Traif",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cGwtpcLji-aK2xwr6fC3eg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/traif-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 1857,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.710658,
+                "longitude": -73.958872
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "229 S 4th St",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11211",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "229 S 4th St",
+                    "Brooklyn, NY 11211"
+                ]
+            },
+            "phone": "+13478449578",
+            "display_phone": "(347) 844-9578",
+            "distance": 7391.884733916117
+        },
+        {
+            "id": "Bhh7QZW7VB4Ed6n1tJ6TUw",
+            "alias": "focaccia-pizza-brooklyn",
+            "name": "Focaccia Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zgdylnZPqIKAr3Pi662AZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/focaccia-pizza-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.61775,
+                "longitude": -73.9613
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1316 Avenue M",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1316 Avenue M",
+                    "Brooklyn, NY 11230"
+                ]
+            },
+            "phone": "+13474923422",
+            "display_phone": "(347) 492-3422",
+            "distance": 3337.6409710838175
+        },
+        {
+            "id": "bHkJ-7cOUTI7SJrqnRpt7g",
+            "alias": "king-solomon-glatt-kosher-catering-and-reastaurant-brooklyn",
+            "name": "King Solomon Glatt Kosher Catering & Reastaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SIEb1FtcySDoYnZ9gBqD3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/king-solomon-glatt-kosher-catering-and-reastaurant-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "russian",
+                    "title": "Russian"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.613808,
+                "longitude": -73.962715
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1787 Coney Island Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11230",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1787 Coney Island Ave",
+                    "Brooklyn, NY 11230"
+                ]
+            },
+            "phone": "+17189757676",
+            "display_phone": "(718) 975-7676",
+            "distance": 3787.852484332296
+        },
+        {
+            "id": "emm90bgqh6-QZ8m3IZ_H9g",
+            "alias": "kasai-sheepshead-bay-4",
+            "name": "Kasai",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/g9NIDdelN2RM0VWzlAE-fQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kasai-sheepshead-bay-4?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.595281824641,
+                "longitude": -73.9612298870106
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "2524 Coney Island Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Sheepshead Bay",
+                "zip_code": "11223",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "2524 Coney Island Ave",
+                    "Sheepshead Bay, NY 11223"
+                ]
+            },
+            "phone": "+13474629148",
+            "display_phone": "(347) 462-9148",
+            "distance": 5702.491315832532
+        },
+        {
+            "id": "B5526eNbfzBqI9D3KpMoHw",
+            "alias": "davry-kosher-sports-bar-brooklyn",
+            "name": "Davry Kosher Sports Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/y2eapMEf-xe3QPM0TwLx-w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/davry-kosher-sports-bar-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.60612,
+                "longitude": -73.964895
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "722 Kings Hwy",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11223",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "722 Kings Hwy",
+                    "Brooklyn, NY 11223"
+                ]
+            },
+            "phone": "+17185134742",
+            "display_phone": "(718) 513-4742",
+            "distance": 4640.720003761629
+        },
+        {
+            "id": "A0GVSLdYCEIr-yLZnqhJkg",
+            "alias": "marani-rego-park-5",
+            "name": "Marani",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OxRUhM-aJP1JF2gCiBUcwQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/marani-rego-park-5?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 249,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "georgian",
+                    "title": "Georgian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.731202,
+                "longitude": -73.859833
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "97-26 63rd Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Rego Park",
+                "zip_code": "11374",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "97-26 63rd Rd",
+                    "Rego Park, NY 11374"
+                ]
+            },
+            "phone": "+17185690600",
+            "display_phone": "(718) 569-0600",
+            "distance": 11966.119920541301
+        },
+        {
+            "id": "Oir13Auk4p-AIOU9k5TT6w",
+            "alias": "isabella-brooklyn",
+            "name": "Isabella",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CbHvdA9SD5_apntVyx-b4A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/isabella-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 40.6132,
+                "longitude": -73.9393
+            },
+            "transactions": [],
+            "location": {
+                "address1": "3219 Quentin Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11234",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "3219 Quentin Rd",
+                    "Brooklyn, NY 11234"
+                ]
+            },
+            "phone": "+13476737799",
+            "display_phone": "(347) 673-7799",
+            "distance": 3564.8026451944315
+        },
+        {
+            "id": "eQE40NYRMtN-7d7_PCS1Vw",
+            "alias": "mint-brooklyn",
+            "name": "Mint",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i-SVLhJKIGV6-f_SE2JoNg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mint-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.6047096,
+                "longitude": -73.9696579
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "535 Kings Hwy",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11223",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "535 Kings Hwy",
+                    "Brooklyn, NY 11223"
+                ]
+            },
+            "phone": "+17183390273",
+            "display_phone": "(718) 339-0273",
+            "distance": 4949.09111202971
+        },
+        {
+            "id": "nowDLGFEZjT6ccdDDJy5PA",
+            "alias": "izzy-s-taqueria-brooklyn",
+            "name": "Izzy’s Taqueria",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/I94e0Igl39VHg4BBTRt_kg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/izzy-s-taqueria-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.6648701175503,
+                "longitude": -73.9368999749422
+            },
+            "transactions": [],
+            "location": {
+                "address1": "397 Troy Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11213",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "397 Troy Ave",
+                    "Brooklyn, NY 11213"
+                ]
+            },
+            "phone": "+17189752295",
+            "display_phone": "(718) 975-2295",
+            "distance": 2305.2167498096364
+        },
+        {
+            "id": "EdPF3O_bANrKkWNMYpDjtA",
+            "alias": "my-grill-bar-brooklyn",
+            "name": "My Grill Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YMhfiQthjFroT0_TPnjsow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/my-grill-bar-brooklyn?adjust_creative=5n8Sy9noFxDtbuw70lRSUw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5n8Sy9noFxDtbuw70lRSUw",
+            "review_count": 53,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.60982,
+                "longitude": -73.96263
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1022 Avenue P",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11223",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1022 Avenue P",
+                    "Brooklyn, NY 11223"
+                ]
+            },
+            "phone": "+17189757272",
+            "display_phone": "(718) 975-7272",
+            "distance": 4204.562060893454
+        }
+    ],
+    "total": 2500,
+    "region": {
+        "center": {
+            "longitude": -73.94485473632812,
+            "latitude": 40.645036590407415
+        }
+    }
+}
